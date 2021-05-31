@@ -137,6 +137,38 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "name": "Popsicle Finance",
+      "symbol": "ICE",
+      "address": "0xf16e81dce15b08f326220742020379b855b87df9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Badger Finance",
+      "symbol": "BADGER",
+      "address": "0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Band Protocol",
+      "symbol": "BAND",
+      "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Sushi Swap",
+      "symbol": "SUSHI",
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": ""
     }
   ]
 }
